@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'CircularSTD';
+    src: url(circular-std-medium-500.ttf);
+}
+
+body {
+    font-family: 'CircularSTD';
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+canvas {
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
